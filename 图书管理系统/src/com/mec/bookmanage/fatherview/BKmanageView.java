@@ -24,6 +24,9 @@ import com.mec.bookmanage.sonview.CheckAll;
 import com.mec.bookmanage.sonview.DeleteBook;
 import com.mec.bookmanage.sonview.Help;
 
+/**
+ * @author cheng
+ */
 public class BKmanageView extends Thread implements IBKmanageView{
 	private JFrame jFrame;
 	private Container container;
